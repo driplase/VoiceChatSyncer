@@ -11,7 +11,10 @@ Made for [ゴットを感じる鯖](https://gott-wave.1.xn--5gqr11h.net/)
 [Discord Developer Portal](https://discord.com/developers/applications) にアクセスして、\
 サイドバーから アプリケーション を開きます。
 
-次に、新しいアプリケーション ボタンからアプリを作成してください。\
+次に、新しいアプリケーション ボタンからアプリを作成し、\
+サイドバーの 概要 > Bot から Message Content Intent をオンにしてください。\
+これがないとエラーを吐いて動きません。
+
 作成したアプリは後ほど使用します。
 
 ### Step 1
